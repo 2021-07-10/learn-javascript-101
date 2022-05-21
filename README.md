@@ -5,3 +5,4 @@
 ## 教程
 
 * [ES6 入门教程 - 阮一峰](https://es6.ruanyifeng.com/)
+* [现代 JavaScript 教程](https://zh.javascript.info/)
