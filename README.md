@@ -5,6 +5,7 @@
 
 ## 教程
 
+* [JavaScript 核心进阶 - 这波能反杀](./5896342107/)
 * [ES6 入门教程 - 阮一峰](https://es6.ruanyifeng.com/)
 * [现代 JavaScript 教程](https://zh.javascript.info/)
 
